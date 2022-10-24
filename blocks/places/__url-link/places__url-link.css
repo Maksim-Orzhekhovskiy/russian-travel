@@ -13,4 +13,5 @@
 @media screen and (max-width: 568px) {
   .places__url-link {
     padding: 0 16px;
+  }
 }
