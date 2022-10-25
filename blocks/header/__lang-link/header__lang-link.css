@@ -12,10 +12,6 @@
   opacity: .8;
 }
 
-.header__lang-link_active {
-  border-bottom: 2px solid;
-}
-
 @media screen and (max-width: 586px) {
   .header__lang-link {
     font-size: 18px;
