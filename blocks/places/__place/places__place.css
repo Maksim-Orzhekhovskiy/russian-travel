@@ -7,7 +7,6 @@
 
 @media screen and (max-width: 1124px) {
 .places__place {
-
     gap: 48px 32px;
     max-width: 928px;
  }
@@ -15,7 +14,6 @@
 
 @media screen and (max-width: 984px) {
   .places__place {
-
       gap: 48px 28px;
       max-width: 720px;
   }
