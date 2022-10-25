@@ -1,4 +1,21 @@
 .places__image {
-  max-width: 100%;
-  object-fit: cover;
+  max-width: 460px
+}
+
+@media screen and (max-width: 1124px) {
+  .places__image {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .places__image {
+    max-width: 340px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .places__image {
+    max-width: 100%;
+  }
 }
